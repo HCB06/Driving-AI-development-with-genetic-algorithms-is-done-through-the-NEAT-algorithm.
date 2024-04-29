@@ -3,7 +3,7 @@ Driving AI development with genetic algorithms is done through the NEAT algorith
 
 An ANN model that learns through evolution using Neuroevolution of Augmenting Topologies, created solely with algorithms and mathematics.
 
-I can only share octave codes. You need to create the Unity environment yourself. The model is already trained.
+I can only share octave codes. You need to create the Unity environment yourself.
 It starts with the 'start' function.
 
 For more information: https://www.youtube.com/watch?v=bymD0nXDd9A&t=1s&ab_channel=HasanCanBeydili
